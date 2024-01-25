@@ -23,7 +23,7 @@ Espero que gostem e seja útil para os estudos de vocês! :)
 <h1 align="center"> Conclusão 📕 </h1> 
 
 Os desafios de códigos são muito importantes na hora de fixar o conteúdo que é passado nas aulas, então é bem interessante testar os conhecimentos e se desafiar mesmo. Além disso, salvar os códigos são uma bela forma de estudo no futuro. 
-
+Clicando no link, você será redirecionado ao meu perfil na DIO 😁👇
 <p align="center">
   <a href="https://www.dio.me/users/vivi_kamizono">
     <img src="https://hermes.digitalinnovation.one/assets/diome/logo-full.svg" alt="DIO Badge" width="300">
