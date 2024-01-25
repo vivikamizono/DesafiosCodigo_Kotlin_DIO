@@ -1,0 +1,20 @@
+fun main() {
+    val titulo = readLine() ?: ""
+    val autor = readLine() ?: ""
+
+    val slugTitulo = titulo.generateSlug()
+    val slugAutor = "_" + autor.generateSlug()
+
+    println("Slug gerado para o livro:")
+    println("$slugTitulo$slugAutor")
+}
+
+fun String.generateSlug(): String {
+    // Remove espaços e caracteres especiais, substituindo por traços
+    return this
+        .toLowerCase() // Converte para minúsculas
+        .replace(Regex("[^a-z0-9]"), "-") // Substitui caracteres especiais por traços
+        .replace(Regex("-+"), "-") // Remove múltiplos traços consecutivos
+        .removePrefix("-") // Remove traços no início
+        .removeSuffix("-") // Remove traços no final
+}
