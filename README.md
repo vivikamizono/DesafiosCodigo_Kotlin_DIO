@@ -26,6 +26,13 @@ Os desafios de códigos são muito importantes na hora de fixar o conteúdo que 
 Clicando no link, você será redirecionado ao meu perfil na DIO 😁👇
 <p align="center">
   <a href="https://www.dio.me/users/vivi_kamizono">
-    <img src="https://hermes.digitalinnovation.one/assets/diome/logo-full.svg" alt="DIO Badge" width="300">
+    <img src="https://hermes.digitalinnovation.one/assets/diome/logo-full.svg" alt="DIO Badge" width="100">
+  </a>
+</p>
+
+Dúvidas ou sugestões? Fique a vontade para me chamar no linkedln! 😁👇
+<p align="center">
+  <a href="https://www.linkedin.com/in/vitoriamagarkamizono/">
+    <img src="https://cdn1.iconfinder.com/data/icons/logotypes/32/circle-linkedin-512.png" alt="Linkedln" width="100">
   </a>
 </p>
